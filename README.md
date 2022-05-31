@@ -1,4 +1,4 @@
-<a href="/files/latest.html">
+<a href="/files/latest.html" target="_blank">
 <img src="/svgs/open-web.svg" alt="Open in browser">
 </a><br>
 
